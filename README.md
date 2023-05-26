@@ -15,7 +15,7 @@
 </p>
 
 
-My personal CV hosted by GitHub Pages, check [here](). Thanks [@Bedimcode](https://github.com/bedimcode) for the awesome design.
+My personal CV hosted by GitHub Pages, check [here](https://mmaachado.github.io/personal_resume/index.html). Thanks [@Bedimcode](https://github.com/bedimcode) for the awesome design.
 
 ##
 - [🌟 features](#-features)
