@@ -31,7 +31,7 @@ My personal CV hosted by GitHub Pages, check [here](https://mmaachado.github.io/
 * EN/PT language
 
 ## 👨🏻‍💻 author
-[Marcelo Machado](http://www.twitter.com/hayashilol1)
+[Marcelo Machado](http://www.twitter.com/shinilol1)
 
 [Bedimcode](https://github.com/bedimcode)
 
