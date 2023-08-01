@@ -30,8 +30,8 @@ My personal CV hosted by GitHub Pages, check [here](https://mmaachado.github.io/
 * Download PDF
 * EN/PT language
 
-## 👨🏻‍💻 author
-[Marcelo Machado](http://www.twitter.com/shinilol1)
+## 👨🏻‍💻 authors
+[Marcelo Machado](https://www.linkedin.com/in/marcelo-machado/)
 
 [Bedimcode](https://github.com/bedimcode)
 
