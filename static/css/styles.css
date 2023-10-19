@@ -598,7 +598,15 @@ img {
   }
 
   .home__information,
-  .social__container{ 
+  .social__container { 
+    justify-content: center;
+  }
+
+  .skills__name {
+    justify-content: center;
+  }
+
+  .languages__name {
     justify-content: center;
   }
 }
