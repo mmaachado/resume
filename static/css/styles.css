@@ -117,7 +117,8 @@ body.scale-cv {
 }
 
 .scale-cv .section {
-  padding: 1.5rem 0 .80rem;
+  /* padding: 1.5rem 0 .80rem; */
+  padding: 2.40rem 0 .89rem;
 }
 
 .scale-cv .section-title {
@@ -174,7 +175,8 @@ body.scale-cv {
 
 .scale-cv .education__line {
   width: 1px;
-  height: 110%;
+  /* height: 110%; when more than one*/
+  height: 90%;
   transform: translate(5px, 0);
 }
 
@@ -469,6 +471,11 @@ img {
   height: 110%;
   background-color: var(--text-color-light);
   transform: translate(7px, 0);
+}
+
+/* remove this when more than one */
+.education__line {
+  height: 90%;
 }
 
 .education__data,

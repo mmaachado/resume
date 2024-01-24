@@ -28,7 +28,6 @@ My personal CV hosted by GitHub Pages, check [here](https://mmaachado.github.io/
 
 * Dark/Light mode
 * Download PDF
-* EN/PT language
 
 ## 👨🏻‍💻 authors
 [Marcelo Machado](https://www.linkedin.com/in/marcelo-machado/)
